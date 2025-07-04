@@ -66,7 +66,7 @@ This repository features an interactive Power BI dashboard designed to track and
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/hr-attendance-dashboard.git
+    git clone https://github.com/Praveenkumar-p-git/hr-attendance-dashboard.git
     ```
 2. Open the `.pbix` file using Power BI Desktop.
 3. Use the date filters and explore employee trends.
@@ -97,6 +97,6 @@ Licensed under the [MIT License](LICENSE).
 
 ## 📷 Screenshot
 
-![HR Analysis – Presence Dashboard](./Hr%20Analysis.png)
+![HR Analysis – Presence Dashboard](https://github.com/Praveenkumar-p-gif/Hr-Domain-Analysis/blob/main/HR%20Analytics/Hr%20Analysis.png)
 
 
